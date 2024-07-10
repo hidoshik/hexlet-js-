@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-project",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "new project by Hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidoshik/hexlet-js-.git"
+  },
+  "author": "Valerie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hidoshik/hexlet-js-/issues"
+  },
+  "homepage": "https://github.com/hidoshik/hexlet-js-#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
